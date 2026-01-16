@@ -224,7 +224,7 @@ margin-top: 40px;
         display: block;
         height: 100%;
     }
-    /* .styler{
+    .styler{
         flex-direction: column;
         align-items: center;
         justify-content: center;
@@ -242,5 +242,5 @@ margin-top: 40px;
     }
     .nav{
         width: 80vw;
-    } */
+    }
  }
