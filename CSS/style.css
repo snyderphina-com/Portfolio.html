@@ -18,7 +18,7 @@ color: rgb(255, 0, 255);
 .intro ul{
 list-style: none;
 display: flex;
-gap: 40px;
+gap: 40rem;
 }
 .intro ul:hover{
 color: rgba(0, 255, 234, 0.877);
@@ -37,7 +37,7 @@ color: rgba(0, 255, 234, 0.877);
 background-color:rgba(0, 153, 255, 0.5);
 width: 55vw;
 clip-path: inset(0px 0px 0px 0px round 0px 200px);
-margin-left: 30px;
+margin-left: 30rem;
 box-shadow: 20px 20px;
 
 }
@@ -223,7 +223,7 @@ margin-top: 40px;
     body{
         display: block;
     }
-    .styler{
+    /* .styler{
         flex-direction: column;
         align-items: center;
         justify-content: center;
@@ -241,5 +241,5 @@ margin-top: 40px;
     }
     .nav{
         width: 80vw;
-    }
+    } */
  }
