@@ -243,4 +243,7 @@ margin-top: 40px;
     .nav{
         width: 80vw;
     }
+    .li{
+        display: block;
+    }
  }
