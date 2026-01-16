@@ -177,7 +177,7 @@ font-size: larger;
 display: flex;
 align-items: center;
 justify-content: center;
-width: max-content;
+
 
 }
 .done{
@@ -219,3 +219,24 @@ margin-top: 40px;
 .name{
     font-size: x-small;
 }
+ @media(max-width:700px){
+    .styler{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .style{
+        width: 80vw;
+        margin-left: 0px;
+    }
+    .containb{
+        margin-right: 0px;
+    }
+    .about{
+        width: 80vw;
+        margin-right: 0px;
+    }
+    .nav{
+        width: 80vw;
+    }
+ }
